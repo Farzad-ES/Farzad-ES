@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Farzad Esmaeil beygi
-- 👀 I’m interested in programming and AI
+- 👀 I’m interested in software engineering and AI
 - 🌱 I’m an AI researcher
-- 💞️ I’m looking to collaborate on some AI researching projects
+- 💞️ I’m looking to collaborate on AI research projects
 - 📫 You can reach me via my email: farzad.esmaeilbeygi@gmail.com
 
 <!---
